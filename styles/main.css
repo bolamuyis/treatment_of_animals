@@ -16,3 +16,10 @@ aside {
 footer {
     background-color: chartreuse;
 }
+footer div {
+    display: inline-block;
+}
+
+footer div ul.nobullets {
+    list-style-type: none;
+}

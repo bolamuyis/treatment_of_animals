@@ -1,0 +1,17 @@
+.container {
+    width: 1024px;
+    background-color: brown;
+    margin: 0 auto;
+}
+nav {
+    background-color: blue;
+}
+main {
+    background-color: cornflowerblue;
+}
+aside {
+    background-color: aqua;
+}
+footer {
+    background-color: chartreuse;
+}
